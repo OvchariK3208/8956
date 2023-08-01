@@ -2,6 +2,18 @@
 
 ![Home page 8956 Delivey](https://github.com/OvchariK3208/8956/assets/68857173/e9a21dae-48e6-43d5-966b-004c546cc680)
 
+8956 Delivery: Удобный онлайн-сервис для заказа еды.
+Разработал платформу электронной коммерции для ресторана, включающую интерактивное меню с разнообразными блюдами, такими как пицца, суши и роллы. Ключевой целью этого проекта было упростить процесс онлайн-заказа и обеспечить бесперебойное взаимодействие с пользователями.
+
+## Features
+
+  * Login / Registration forms
+  * List of rooms
+  * Personal timeline
+
+## Tech Stack
+  * React
+  * Node, Express, MongoDB
 
 ## Getting Started with Create React App
 
