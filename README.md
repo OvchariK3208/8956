@@ -1,6 +1,6 @@
 # 8956 Delivey
 
-(![Home page 8956 Delivey](https://github.com/OvchariK3208/8956/assets/68857173/e9a21dae-48e6-43d5-966b-004c546cc680))
+![Home page 8956 Delivey](https://github.com/OvchariK3208/8956/assets/68857173/e9a21dae-48e6-43d5-966b-004c546cc680)
 
 
 ## Getting Started with Create React App
