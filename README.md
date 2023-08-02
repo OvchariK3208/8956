@@ -6,14 +6,15 @@
 Разработал платформу электронной коммерции для ресторана, включающую интерактивное меню с разнообразными блюдами, такими как пицца, суши и роллы. Ключевой целью этого проекта было упростить процесс онлайн-заказа и обеспечить бесперебойное взаимодействие с пользователями.
 
 ## Features
-
   * Login / Registration forms
   * List of rooms
   * Personal timeline
 
 ## Tech Stack
-  * React
-  * Node, Express, MongoDB
+  * React, ReactDOM, React Router DOM
+  * Typescript
+  * Redux, Redux Thunk, axios
+  * Tailwindcss, Font Awesome
 
 ## Getting Started with Create React App
 
