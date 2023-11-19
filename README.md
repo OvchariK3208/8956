@@ -1,4 +1,4 @@
-# 8956 Delivey
+# 8956 Delivery
 
 ![Home page 8956 Delivey](https://github.com/OvchariK3208/8956/assets/68857173/e9a21dae-48e6-43d5-966b-004c546cc680)
 
